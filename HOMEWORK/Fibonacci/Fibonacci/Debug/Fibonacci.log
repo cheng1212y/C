@@ -1,0 +1,4 @@
+﻿  Fibonacci.c
+e:\code\c\homework\fibonacci\fibonacci\fibonacci.c(24): warning C4047: “函数”:“char *”与“int”的间接级别不同
+e:\code\c\homework\fibonacci\fibonacci\fibonacci.c(24): warning C4024: “reverse_string”: 形参和实参 1 的类型不同
+  Fibonacci.vcxproj -> E:\code\c\homework\Fibonacci\Debug\Fibonacci.exe
